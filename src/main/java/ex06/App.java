@@ -23,7 +23,6 @@ Handle situations where the program returns a negative number by stating that th
 
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
-import java.util.Date;
 import java.util.Scanner;
 
 public class App {
